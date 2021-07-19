@@ -25,4 +25,5 @@ category is Hair Oil.
 The Repository includes the following:
 1) Jupyter Notebook containing the solution to the problem statement.
 2) Scraped Dataset
-3) README.md file
+3) Report, describing the solution in brief
+4) README.md file
